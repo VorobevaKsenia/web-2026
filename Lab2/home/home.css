@@ -1,0 +1,80 @@
+.menu {
+    width: 40px;
+    height: 150px;
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+}
+
+.news span {
+    font: 600 14px/18px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -0.15px;
+    color: #222222;
+    width: 90px;
+    height: 18px;
+}
+
+.edit {
+    width: 24px;
+    height: 24px;   
+}
+
+.count-slide {
+    font: 400 15px/18px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -0.15px;
+    color: #FFFFFF;
+    width: 24px;
+    height: 18px; 
+}
+
+.photo-vania {
+    width: 474px;
+    height: 474px;
+}
+
+.like {
+    width: 16px;
+    height: 16px;
+}
+
+.count-like {
+    font: 400 15px/18px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -0.15px;
+    color: #222222;
+    width: 25px;
+    height: 18px; 
+}
+
+.note {
+    font: 400 15px/18px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -0.15px;
+    color: #222222;
+    width: 474px;
+    height: 37px;
+}
+
+.yet {
+    font: 400 15px/18px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -0.15px;
+    color: #808080;
+    width: 28px;
+    height: 18px;
+}
+
+.ago {
+    font: 400 14px/18px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -0.15px;
+    color: #22222280;
+    opacity: 0.5;
+    width: 82px;
+    height: 18px;
+}
+
+.photo-liza {
+    width: 474;
+    height: 474;
+    display: block;
+}

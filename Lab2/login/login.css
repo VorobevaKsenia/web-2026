@@ -1,0 +1,55 @@
+.sign-up {
+    font: 700 140px/180px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -1.5px;
+    color: #222222;
+    width: 385px;
+    height: 180px;
+}
+
+.text {
+    font: 400 13px/16px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -0.08px;
+    color: #808080;
+}
+
+p {
+    font: 400 15px/18px 'Golos Text', Arial, sans-serif;
+    letter-spacing: -0.15px;
+    color: #222222;
+}
+
+.button {
+    display: block;
+    font: 500 16px/48px 'Golos Text', Arial, sans-serif;
+    border-radius: 10px;
+    background-color: #222222;
+    width: 343px;
+    height: 48px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.input-field {
+    width: 343px;
+    height: 251px;
+}
+
+.input-field input{
+    width: 343px;
+    height: 44px;
+    border-radius: 10px;
+    background-color: #F2F3F5;
+    justify-content: space-between;
+    border-width: 0px;
+}
+
+.tourist-smiles {
+    width:462px;
+    height:501px;
+}
+
+.Eye-off {
+    width: 24px;
+    height: 24px;
+}
